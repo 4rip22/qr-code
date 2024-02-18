@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(rgb(95, 160, 160),rgb(22, 27, 27));
+    flex-direction: column;
+}
+
+span {
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    text-shadow: 0 0 2px black;
+    text-align: center;
+    margin-bottom: 20px; 
+}
+#reader {
+    width: 500px;
+}
