@@ -6,7 +6,6 @@ body {
     background: linear-gradient(rgb(95, 160, 160),rgb(22, 27, 27));
     flex-direction: column;
 }
-
 span {
     color: white;
     font-size: 20px;
